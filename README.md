@@ -1,0 +1,2 @@
+# SNP
+mern stack Application
